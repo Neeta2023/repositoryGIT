@@ -10,6 +10,8 @@ import apiEndpoints.UserEndPoint;
 import apiPayload.User;
 import io.restassured.response.Response;
 
+
+//git repository 
 public class UserTests {
 	
 	Faker faker;
