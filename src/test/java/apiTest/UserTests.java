@@ -12,6 +12,8 @@ import io.restassured.response.Response;
 
 
 //git repository 
+
+// just checking
 public class UserTests {
 	
 	Faker faker;
